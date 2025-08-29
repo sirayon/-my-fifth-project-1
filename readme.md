@@ -16,4 +16,5 @@ Ans: Event bubbling is when an event starts from the target element and moves
 Ans: -Reduce memory usegs by avoiding multiple listeners 
     - works for dynamically added elements without nedded new listeners 
 5.. What is the difference between preventDefault() and stopPropagation() methods?
-Ans: 
+Ans: preventdefault: stop the default action of the elements 
+    stopPropagation: stop the event from bubbling up to prevent elements but doesnot stop the event on the target elements 
