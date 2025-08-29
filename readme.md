@@ -15,3 +15,5 @@ Ans: Event bubbling is when an event starts from the target element and moves
 4.. What is Event Delegation in JavaScript? Why is it useful?
 Ans: -Reduce memory usegs by avoiding multiple listeners 
     - works for dynamically added elements without nedded new listeners 
+5.. What is the difference between preventDefault() and stopPropagation() methods?
+Ans: 
